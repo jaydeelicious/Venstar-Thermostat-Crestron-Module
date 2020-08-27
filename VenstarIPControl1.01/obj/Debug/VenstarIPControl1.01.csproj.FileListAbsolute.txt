@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\VenstarIPControl1.01.dll
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\VenstarIPControl1.01.pdb
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\obj\Debug\VenstarIPControl1.01.dll
+C:\Users\user\Desktop\Desktop Crap 2\March 2020\Venstart Thermostat (nd)\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\obj\Debug\VenstarIPControl1.01.pdb
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\VenstarIPControl1.01.dll
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\VenstarIPControl1.01.pdb
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\obj\Debug\VenstarIPControl1.01.dll
+C:\Users\user\Desktop\Venstar Driver\FINAL\C#\VenstarIPControl1.01\VenstarIPControl1.01\obj\Debug\VenstarIPControl1.01.pdb
